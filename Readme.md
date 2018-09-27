@@ -1,4 +1,4 @@
-## Check out the tutorial on [Youtube]: https://youtu.be/BV6Zz3CB36k?a
+## Check out the tutorial on [Youtube](https://youtu.be/BV6Zz3CB36k?a)
 
 ### Summary
 Let's create a Motion Detector using OpenCV in Python
